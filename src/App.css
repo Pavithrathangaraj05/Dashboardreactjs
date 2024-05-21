@@ -1,0 +1,131 @@
+body{
+  margin:0;
+  padding:0;
+  background-color:rgb(246 246 246);
+}
+.Dashboard{
+  margin:0;
+  padding: 17px;
+  background-color: white;
+  /* padding-left:25px; */
+  padding-left: 25px;
+}
+.Profile{
+  display: flex;
+  
+}
+.P1{
+  box-shadow: 0 2px 2px 0 rgba(220, 220, 220, 0.2), 0 3px 5px 0 rgba(220, 220, 220, 0.19);
+  /* display: flex; */
+  /* height: 100px; */
+  flex:1;
+  margin: 10px;
+  padding:8px;
+  /* flex-wrap:wrap ; */
+  border-radius: 10px;
+  /* border: solid;
+  border-width: 1px;
+  border-color: grey; */
+  background-color: white;
+}
+.P2{
+  box-shadow: 0 2px 2px 0 rgba(220, 220, 220, 0.2), 0 3px 5px 0 rgba(220, 220, 220, 0.19);
+  display: flex;
+  flex: 1;
+  padding:8px;
+  /* flex-wrap:wrap ; */
+  border-radius: 10px;
+  /* border: solid;
+  border-width: 1px; */
+  border-color: grey;
+  margin:8px;
+  background-color: white;
+}
+.A{
+  line-height: 15px;
+  display: flex;
+}
+.A1,
+.A2{
+  flex: 1;
+}
+.p{
+  margin: 0px;
+  padding: 2px;
+  margin-bottom: 5px;
+}
+.p1{
+  margin: 0px;
+  padding: 2px;
+  margin-bottom: 15px;
+}
+.Note{
+  color: red;
+  line-height: 15px;
+  font-size: smaller;
+}
+.headings{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.place{
+  display: flex;
+}
+.place1{
+  line-height: 3px;
+  flex: 1;
+  
+  padding:8px;
+  /* flex-wrap:wrap ; */
+  border-radius: 10px;
+  box-shadow: 0 2px 2px 0 rgba(220, 220, 220, 0.2), 0 3px 5px 0 rgba(220, 220, 220, 0.19);
+  /* border: solid;
+  border-width: 1px;
+  border-color: grey; */
+  margin:8px;
+  background-color: white;
+  padding-left: 15px;
+  padding-bottom: 25px;
+}
+.place12{
+  font-size: x-large;margin: 5px;
+  display: flex;
+  padding-bottom: 5px;
+  
+  
+}
+.place11{
+  color: grey;
+}
+.place13{
+  color:grey;
+  font-size: 15px;
+}
+.pro1{
+  margin: 10px;
+  display: flex;
+}
+.pro11{
+ margin-right: 16px;
+}
+.pro12{
+  line-height: 7px;
+}
+.img{
+  width:  100px;
+  border-radius: 10px;
+}
+.semester{
+  color:grey;
+  font-size: small;
+}
+.continuing{
+  color: blueviolet;
+  font-weight: 500;
+}
+.pro3{
+  line-height: 15px;
+  padding-left: 8px;
+  color:grey;
+}
